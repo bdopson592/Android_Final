@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sanchez</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="song">Song</string>
+    <string name="artist">Artist</string>
+    <string name="position">Position Value</string>
+    <string name="emptyList">Empty</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_artists__songs">Artists_Songs</string>
+    <string name="title_activity_last">LastActivity</string>
+
+</resources> <!-- <?xml version="1.0" encoding="utf-8"?> -->
+<!-- <resources> -->
+<!-- <string name="app_name">Artist Database</string> -->
+<!-- <string name="song">Song</string> -->
+<!-- <string name="artist">Artist</string> -->
+<!-- <string name="position">Position Value</string> -->
+<!-- <string name="emptyList">Empty</string> -->
+<!-- </resources> -->
